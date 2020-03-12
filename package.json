@@ -62,7 +62,7 @@
     "skemata": "~0.1.0",
     "loggy": "~0.3.3",
     "micro-promisify": "~0.1.0",
-    "mkdirp": "~0.5.0",
+    "mkdirp": "~1.0.0",
     "quickly-copy-file": "~1.0.0",
     "read-components": "~0.7.0",
     "serve-brunch": "~0.1.0",
